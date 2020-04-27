@@ -27,7 +27,7 @@ The Game of Life is actually a zero-player game, which includes a two-dimensiona
 - Windows10 Education
 
 
-##3. Run and Test
+## 3. Run and Test
 - Run 
 
    to run the project you need to find Game class and run main function, The UI Frame will open automaticlly
